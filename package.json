@@ -1,0 +1,27 @@
+{
+  "name": "desafio-frontend",
+  "version": "1.0.0",
+  "description": "---\r Obrigado por participar do desafio Frontend da Tembici! Estamos muito contentes pelo seu primeiro passo para fazer parte de um time excepcional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianafs/desafio-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianafs/desafio-frontend/issues"
+  },
+  "homepage": "https://github.com/lucianafs/desafio-frontend#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "react-bootstrap": "^1.2.2",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5"
+  }
+}

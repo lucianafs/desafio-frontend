@@ -1,0 +1,65 @@
+/* Geral */
+.font-24{
+    font-size: 1.5rem;
+}
+
+input[type=checkbox]{
+    width: 15px;
+    height: 15px;
+}
+
+/* Menu */
+.navbar{
+    background-color: #ffed00;
+}
+
+.navbar .brand-logo{
+    color: #E6007E;
+}
+
+.navbar a{
+    color: #E6007E;
+}
+
+.navbar a:hover{
+    color: #000000;
+}
+
+/* Produtos */
+.card .card-title{
+    max-height: 50px;
+    min-height: 50px;
+}
+
+.card .btn-pink{
+    background-color: #E6007E;
+    color: #ffffff;
+    border: 1px solid #E6007E;
+}
+
+.card .btn-pink:hover{
+    background-color: #ffffff;
+    color: #E6007E;
+    border: 1px solid #E6007E;
+}
+
+.card .btn-pink:focus, .card .btn-pink:active{
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #E6007E;
+}
+
+/* Checkout */
+.quantidade a{
+    color: #000000;
+    font-size: 1.25rem;
+}
+
+.quantidade a:hover{
+    color: #E6007E;
+    text-decoration: none;
+}
+
+.quantidade a:hover i{
+    color: #E6007E;
+}
