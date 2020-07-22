@@ -10,8 +10,9 @@ App de compras criado com react.
 ```bash
 npm install
 ```
- ### Para iniciar o projeto
+### Para iniciar o projeto
 ```bash
 npm start
+```
 
 A aplicação será iniciada automáticamente no seu browser em http://localhost:3000
